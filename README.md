@@ -10,7 +10,7 @@ Use the challenges in this repo to get started using Spark in Azure Databricks.
  
 After you successfully complete both steps listed as 0a and 0b, please complete the challenges in the following in order:
 
-1. [Challenge 1 - Getting Started with Spark](Challenges/Challenge-1-GettingStartedwithSpark.docx) In this challenge, you'll learn how to provision a Spark cluster in an Azure Databricks workspace, followed by interacting with the data using Python or Scala.
+1. [Challenge 1 - Getting Started with Spark](Challenges/Challenge1-GettingStartedwithSpark.docx) In this challenge, you'll learn how to provision a Spark cluster in an Azure Databricks workspace, followed by interacting with the data using Python or Scala.
 
 3. [Challenge 2 - Using Structured Streaming](Challenges/Challenge3-SparkStreaming.docx). In this challenge, you'll learn how to use Spark to process stream(s) of real-time data using IoT sensor data.
 
