@@ -4,7 +4,7 @@
 
 Use the challenges in this repo to get started using Spark in Azure Databricks.
 
-0a. Start by following the [Setup Guide](Challenges/Challenge0-SetupGuide.docx) to prepare your Azure environment. 
+0a. Start by following the [Challenge0](Challenges/Challenge0-SetupGuide.docx) and [Setup guide](Challenges/Setup Guide.pdf) to prepare your Azure environment. 
 
 0b. Download the all the Student files in the Files area in the Teams site for your hack.
  
