@@ -12,8 +12,6 @@ After you successfully complete both steps listed as 0a and 0b, please complete 
 
 1. [Challenge 1 - Getting Started with Spark](Challenges/Challenge-1-GettingStartedwithSpark.docx) In this challenge, you'll learn how to provision a Spark cluster in an Azure Databricks workspace, followed by interacting with the data using Python or Scala.
 
-2. [Challenge 2 - Running a Spark Job](Challenges/Challenge2-RunningSparkJob.docx). In this challenge, you'll learn how to configure a Spark job for silent execution allowing you to schedule your batch processing workloads.
+3. [Challenge 2 - Using Structured Streaming](Challenges/Challenge3-SparkStreaming.docx). In this challenge, you'll learn how to use Spark to process stream(s) of real-time data using IoT sensor data.
 
-3. [Challenge 3 - Using Structured Streaming](Challenges/Challenge3-SparkStreaming.docx). In this challenge, you'll learn how to use Spark to process stream(s) of real-time data using IoT sensor data.
-
-4. [Challenge 4 - Introduction to Machine Learning](Challenges/Challenge4-IntroductionSparkforMachineLearning.docx). In this challenge, you'll be introduced to using Spark to train &  evaluate a classification model.
+4. [Challenge 3 - Introduction to Machine Learning](Challenges/Challenge4-IntroductionSparkforMachineLearning.docx). In this challenge, you'll be introduced to using Spark to train &  evaluate a classification model.
